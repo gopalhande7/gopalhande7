@@ -19,6 +19,14 @@
 I’m an SDET focused on delivering high-quality, reliable, and maintainable automation solutions.  
 I enjoy integrating testing into DevOps pipelines to achieve faster and more stable releases.  
 
+
+---
+
+🚀 Projects
+🔸 **VE3 Automation Framework** – Java + Selenium + TestNG with Reporting  
+🔸 **Wisecow CI/CD Deployment** – Containerized app testing with Docker & Kubernetes  
+🔸 **API Testing Suite** – RestAssured framework integrated with Jenkins  
+
 ---
 
 ### 💼 Currently Available for Hire
