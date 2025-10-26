@@ -1,16 +1,28 @@
-## Hi there 👋
+ 👋 Hi, I'm Gopal Hande  
 
-<!--
-**gopalhande7/gopalhande7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 **Software Development Engineer in Test (SDET)**  
+🔹 Experienced in automation testing, CI/CD, and quality engineering  
+🔹 Passionate about scalable frameworks, API testing, and DevOps integration  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tech Skills
+- **Languages:** Java  
+- **Automation:** Selenium, TestNG, JUnit, RestAssured, Postman  
+- **Build/CI-CD:** Maven, Jenkins, GitHub Actions  
+- **DevOps:** Docker, Kubernetes  
+- **Frameworks:** POM, Data-Driven Testing, Hybrid Frameworks  
+
+---
+
+### 🚀 About Me
+I’m an SDET focused on delivering high-quality, reliable, and maintainable automation solutions.  
+I enjoy integrating testing into DevOps pipelines to achieve faster and more stable releases.  
+
+---
+
+### 💼 Currently Available for Hire
+Open to **SDET / QA Automation / Test Engineer** roles (remote or onsite).  
+
+📫 **Let’s connect:**  
+ gopalhande97@gmail.com ]  https://www.linkedin.com/in/gopal-hande-572b12190/
