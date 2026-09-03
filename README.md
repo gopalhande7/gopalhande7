@@ -9,6 +9,7 @@
 💻 **Software Engineer in Test (SDET | QA Automation Engineer)**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopal-hande-572b12190/)
+
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopalhande97@gmail.com)
 
 ---
@@ -19,14 +20,15 @@
 
 Results-driven **Software Engineer in Test (SDET)** with hands-on experience in **Java and JavaScript-based test automation**, **UI automation**, **API testing**, and **CI/CD-driven quality engineering**.
 
-Experienced in designing scalable automation frameworks using **Selenium and Playwright**, integrating automated tests into CI/CD pipelines, and collaborating effectively within Agile teams to deliver high-quality software.
+Experienced in designing and maintaining automation frameworks using **Selenium and Playwright**, integrating automated tests into CI/CD pipelines, and collaborating with Agile teams to deliver reliable software.
 
 - Expertise in **UI, API, and regression automation**
-- Strong foundation in **Java and JavaScript automation**
+- Strong foundation in **Java and JavaScript**
 - Hands-on experience with **Selenium and Playwright**
-- Experience with **test design, framework architecture, and reporting**
+- Experience with **test design and automation framework architecture**
 - Knowledge of **CI/CD pipelines and containerized environments**
-- Actively seeking opportunities as **SDET / QA Automation Engineer / Test Engineer**
+- Experience working in **Agile environments**
+- Actively developing skills in modern automation technologies
 
 ---
 
@@ -36,44 +38,46 @@ Experienced in designing scalable automation frameworks using **Selenium and Pla
 |---|---|
 | 💻 **Languages** | Java, JavaScript |
 | 🧪 **UI Automation** | Selenium, Playwright |
-| 🧪 **Testing Frameworks** | TestNG, JUnit |
+| 🧪 **Testing Frameworks** | TestNG, JUnit, Playwright Test |
 | 🔌 **API Testing** | RestAssured, Postman |
 | ⚙️ **Build & CI/CD** | Maven, Jenkins, GitHub Actions |
 | 🐳 **DevOps / Containers** | Docker, Kubernetes |
-| 📋 **Frameworks** | POM, Data-Driven, Hybrid |
+| 🏗️ **Frameworks** | POM, Data-Driven, Hybrid |
 | 🔍 **Project Management** | Jira, Agile |
 | 🌿 **Version Control** | Git, GitHub |
 
 ---
 
-## 🧩 Featured Projects
+# 🧩 Featured Projects
 
-### 🏦 ParaBank Automation Framework
+## 🏦 ParaBank Automation Framework
 
 **Domain:** Banking Application
 
-- Designed and implemented a scalable **Selenium automation framework** using **Java + TestNG**
-- Followed the **Page Object Model (POM)** design pattern
+- Designed and implemented a scalable **Selenium automation framework**
+- Used **Java + TestNG** following the **Page Object Model (POM)**
 - Automated critical banking workflows including:
-  - Authentication
+  - User authentication
   - Account management
   - Fund transfers
   - Transaction validation
 - Implemented **data-driven testing** to improve test coverage
 - Integrated automated tests with **Maven**
-- Executed regression suites as part of CI pipelines
+- Executed regression test suites
 
-**Tech Stack:**  
+**Tech Stack:**
+
 `Java` `Selenium` `TestNG` `Maven` `POM`
 
 ---
 
-### 🏡 DreamHouse Finance Automation Project
+## 🏡 DreamHouse Finance Automation Project
 
 **Domain:** Real Estate & Finance Application
 
-- Developed **UI and API automation suites** covering end-to-end business scenarios
-- Automated workflows for:
+- Developed **UI and API automation suites**
+- Automated end-to-end business workflows
+- Covered scenarios including:
   - Property listings
   - Loan applications
   - User onboarding
@@ -82,35 +86,83 @@ Experienced in designing scalable automation frameworks using **Selenium and Pla
 - Implemented request and response validations
 - Integrated automation execution with **Jenkins CI**
 - Logged and tracked defects using **Jira**
-- Collaborated with cross-functional Agile teams
+- Collaborated with Agile teams
 
-**Tech Stack:**  
+**Tech Stack:**
+
 `Java` `Selenium` `RestAssured` `TestNG` `Jenkins` `Jira`
 
 ---
 
-### 🎭 Playwright Automation Project
+## 💼 Youv Biz Automation Project
+
+**Domain:** Business Management Application
+
+- Developed and maintained automated test scenarios for critical business workflows
+- Performed **UI automation testing** for end-to-end application functionality
+- Automated key modules including:
+  - User management
+  - Business workflows
+  - Form validations
+  - Data management
+- Designed reusable test components to improve maintainability
+- Performed regression testing to ensure application stability
+- Followed structured automation practices using reusable components
+
+**Tech Stack:**
+
+`Java` `Selenium` `TestNG` `Maven` `POM`
+
+---
+
+## 📊 Lead Management Automation Project
+
+**Domain:** CRM / Lead Management
+
+- Automated end-to-end workflows for a **Lead Management system**
+- Tested critical lead lifecycle scenarios including:
+  - Lead creation
+  - Lead assignment
+  - Lead updates
+  - Lead status management
+  - Lead validation
+- Performed UI and functional testing for critical workflows
+- Implemented reusable automation components
+- Followed the **Page Object Model (POM)**
+- Executed regression test suites to validate application functionality
+
+**Tech Stack:**
+
+`Java` `Selenium` `TestNG` `Maven` `POM`
+
+---
+
+## 🎭 Playwright Automation Project
 
 **Domain:** Web Application Testing
 
-- Building modern **end-to-end test automation** using **Playwright and JavaScript**
-- Automating critical user workflows across web applications
-- Implementing reliable locators and assertions
-- Working with:
+Currently building modern **end-to-end automation testing** using **Playwright and JavaScript**.
+
+- Automating critical user workflows
+- Working with reliable locators and assertions
+- Automating:
   - Page navigation
   - Forms
-  - Buttons and dropdowns
+  - Buttons
+  - Dropdowns
   - Alerts
   - Multiple pages
-- Learning and implementing the **Page Object Model (POM)** with Playwright
-- Exploring parallel execution and automated test reporting
+- Learning and implementing **Page Object Model (POM)**
+- Exploring parallel execution
+- Working with automated test reporting
 
-**Tech Stack:**  
+**Tech Stack:**
+
 `JavaScript` `Playwright` `Node.js`
 
 ---
 
-## 🚀 Current Learning Focus
+# 🚀 Current Learning Focus
 
 ```text
 JavaScript
