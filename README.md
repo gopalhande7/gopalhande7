@@ -1,4 +1,4 @@
-  <!-- 🌟 QA Automation Banner -->
+<!-- 🌟 QA Automation Banner -->
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2e7aee55-qa-banner-automation-testing.gif" width="100%" alt="QA Automation Engineer Banner"/>
@@ -6,10 +6,10 @@
 
 # 👋 Hi, I'm Gopal Hande
 
-💻 **Software Engineer in Test (SDET | QA Automation)**
+💻 **Software Engineer in Test (SDET | QA Automation Engineer)**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gopal-hande-572b12190/)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:gopalhande97@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopal-hande-572b12190/)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopalhande97@gmail.com)
 
 ---
 
@@ -17,25 +17,32 @@
 
 > *"Quality engineering is about risk reduction, reliability, and confidence in every release."*
 
-Results-driven **Software Engineer in Test (SDET)** with strong hands-on experience in **Java-based automation**, **API testing**, and **CI/CD-driven quality engineering**. Proven ability to design scalable automation frameworks, integrate tests into pipelines, and collaborate effectively within Agile teams to deliver high-quality software.
+Results-driven **Software Engineer in Test (SDET)** with hands-on experience in **Java and JavaScript-based test automation**, **UI automation**, **API testing**, and **CI/CD-driven quality engineering**.
 
-* Expertise in **UI, API, and regression automation**
-* Strong foundation in **test design, framework architecture, and reporting**
-* Hands-on experience with **CI/CD pipelines and containerized environments**
-* Actively seeking opportunities as **SDET / QA Automation Engineer / Test Engineer**
+Experienced in designing scalable automation frameworks using **Selenium and Playwright**, integrating automated tests into CI/CD pipelines, and collaborating effectively within Agile teams to deliver high-quality software.
+
+- Expertise in **UI, API, and regression automation**
+- Strong foundation in **Java and JavaScript automation**
+- Hands-on experience with **Selenium and Playwright**
+- Experience with **test design, framework architecture, and reporting**
+- Knowledge of **CI/CD pipelines and containerized environments**
+- Actively seeking opportunities as **SDET / QA Automation Engineer / Test Engineer**
 
 ---
 
 ## 🧰 Tech Stack
 
-| Category                   | Tools & Technologies                          |
-| -------------------------- | --------------------------------------------- |
-| 💻 **Languages**           | Java                                          |
-| 🧪 **Automation Tools**    | Selenium, TestNG, JUnit, RestAssured, Postman |
-| ⚙️ **Build & CI/CD**       | Maven, Jenkins, GitHub Actions                |
-| 🐳 **DevOps / Containers** | Docker, Kubernetes                            |
-| 📋 **Frameworks**          | POM, Data-Driven, Hybrid                      |
-| 🔍 **Management**          | Jira, Agile                                   |
+| Category | Tools & Technologies |
+|---|---|
+| 💻 **Languages** | Java, JavaScript |
+| 🧪 **UI Automation** | Selenium, Playwright |
+| 🧪 **Testing Frameworks** | TestNG, JUnit |
+| 🔌 **API Testing** | RestAssured, Postman |
+| ⚙️ **Build & CI/CD** | Maven, Jenkins, GitHub Actions |
+| 🐳 **DevOps / Containers** | Docker, Kubernetes |
+| 📋 **Frameworks** | POM, Data-Driven, Hybrid |
+| 🔍 **Project Management** | Jira, Agile |
+| 🌿 **Version Control** | Git, GitHub |
 
 ---
 
@@ -45,13 +52,19 @@ Results-driven **Software Engineer in Test (SDET)** with strong hands-on experie
 
 **Domain:** Banking Application
 
-* Designed and implemented a **scalable Selenium automation framework** using **Java + TestNG** following the **Page Object Model (POM)**
-* Automated critical banking workflows including **authentication, account management, fund transfers, and transaction validation**
-* Implemented **data-driven testing** using external test data for improved coverage
-* Integrated automated tests with **Maven** for build execution and reporting
-* Executed regression suites as part of CI pipelines to ensure release stability
+- Designed and implemented a scalable **Selenium automation framework** using **Java + TestNG**
+- Followed the **Page Object Model (POM)** design pattern
+- Automated critical banking workflows including:
+  - Authentication
+  - Account management
+  - Fund transfers
+  - Transaction validation
+- Implemented **data-driven testing** to improve test coverage
+- Integrated automated tests with **Maven**
+- Executed regression suites as part of CI pipelines
 
-**Tech Stack:** Java, Selenium, TestNG, Maven, POM
+**Tech Stack:**  
+`Java` `Selenium` `TestNG` `Maven` `POM`
 
 ---
 
@@ -59,23 +72,55 @@ Results-driven **Software Engineer in Test (SDET)** with strong hands-on experie
 
 **Domain:** Real Estate & Finance Application
 
-* Developed **UI and API automation suites** covering end-to-end business scenarios
-* Automated workflows for **property listings, loan applications, user onboarding, and validations**
-* Performed **REST API testing** using RestAssured with request/response validations
-* Integrated automation execution with **Jenkins CI** for continuous testing
-* Logged and tracked defects using **Jira**, collaborating with cross-functional Agile teams
+- Developed **UI and API automation suites** covering end-to-end business scenarios
+- Automated workflows for:
+  - Property listings
+  - Loan applications
+  - User onboarding
+  - Business validations
+- Performed **REST API testing** using RestAssured
+- Implemented request and response validations
+- Integrated automation execution with **Jenkins CI**
+- Logged and tracked defects using **Jira**
+- Collaborated with cross-functional Agile teams
 
-**Tech Stack:** Java, Selenium, RestAssured, TestNG, Jenkins, Jira
-
-----------|-------------|-------|
-| 🏦 **ParaBank Automation Project** | Automated functional and regression testing for a banking web application including login, account services, fund transfer, and transaction validation | Java, Selenium, TestNG, Maven, POM |
-| 🏡 **DreamHouse Finance Automation Project** | UI and API automation for a real estate finance application covering property listings, loan workflows, and end-to-end user journeys | Java, Selenium, RestAssured, TestNG, Jenkins |
-
----
-
-## 🌟 Professional Philosophy
-
-⭐️ *“Quality is engineered through discipline, automation, and continuous improvement.”*
+**Tech Stack:**  
+`Java` `Selenium` `RestAssured` `TestNG` `Jenkins` `Jira`
 
 ---
 
+### 🎭 Playwright Automation Project
+
+**Domain:** Web Application Testing
+
+- Building modern **end-to-end test automation** using **Playwright and JavaScript**
+- Automating critical user workflows across web applications
+- Implementing reliable locators and assertions
+- Working with:
+  - Page navigation
+  - Forms
+  - Buttons and dropdowns
+  - Alerts
+  - Multiple pages
+- Learning and implementing the **Page Object Model (POM)** with Playwright
+- Exploring parallel execution and automated test reporting
+
+**Tech Stack:**  
+`JavaScript` `Playwright` `Node.js`
+
+---
+
+## 🚀 Current Learning Focus
+
+```text
+JavaScript
+     ↓
+Playwright Automation
+     ↓
+Advanced Playwright
+     ↓
+API Testing
+     ↓
+Framework Development
+     ↓
+CI/CD Integration
